@@ -1,0 +1,98 @@
+.App {
+    background-color: #0D111C;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.camera {
+    width: 12%;
+    margin-bottom: -100px;
+}
+
+.search-form {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Bebas Neue';
+    font-size: 5em;
+    letter-spacing: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-bar {
+    width: 60%;
+    border: none;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 3px rgb(71, 71, 71);
+    text-align: center;
+    margin-top: -12em;
+    position: relative;
+}
+
+.search-form i {
+    position: relative;
+    z-index: 1;
+    bottom: 80px;
+    left: 15px;
+    color: #7B7B7B;
+    cursor: pointer;
+    width: 0;
+}
+
+.header {
+    padding: 40px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.photo-grid {
+    columns: 200px 5;
+    width: 100%;
+    grid-gap: 4px;
+}
+
+.photo-grid .background {
+    object-fit: cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.unsplash-user:hover {
+    color: #7B7B7B;
+}
+
+@media only screen and (max-width: 900px) {
+    .camera {
+        width: 30%;
+        text-align: center;
+        padding-bottom: 15px;
+    }
+    
+    h1 {
+        padding: 30px;
+        font-size: 3em;
+        text-align: center;
+    }
+
+    .search-form {
+        padding-top: 15px;
+    }
+}
