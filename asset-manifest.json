@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/camera-roll/static/css/main.9c31278b.chunk.css",
-    "main.js": "/camera-roll/static/js/main.6bb3f2bf.chunk.js",
-    "main.js.map": "/camera-roll/static/js/main.6bb3f2bf.chunk.js.map",
+    "main.js": "/camera-roll/static/js/main.060fa211.chunk.js",
+    "main.js.map": "/camera-roll/static/js/main.060fa211.chunk.js.map",
     "runtime-main.js": "/camera-roll/static/js/runtime-main.b5ca0001.js",
     "runtime-main.js.map": "/camera-roll/static/js/runtime-main.b5ca0001.js.map",
     "static/css/2.9522b9fe.chunk.css": "/camera-roll/static/css/2.9522b9fe.chunk.css",
     "static/js/2.a448b866.chunk.js": "/camera-roll/static/js/2.a448b866.chunk.js",
     "static/js/2.a448b866.chunk.js.map": "/camera-roll/static/js/2.a448b866.chunk.js.map",
     "index.html": "/camera-roll/index.html",
-    "precache-manifest.cae0b5d3a69b03fd46a729bea7101213.js": "/camera-roll/precache-manifest.cae0b5d3a69b03fd46a729bea7101213.js",
+    "precache-manifest.8feb8054c2bca53e05da425acd2f6ffb.js": "/camera-roll/precache-manifest.8feb8054c2bca53e05da425acd2f6ffb.js",
     "service-worker.js": "/camera-roll/service-worker.js",
     "static/css/2.9522b9fe.chunk.css.map": "/camera-roll/static/css/2.9522b9fe.chunk.css.map",
     "static/css/main.9c31278b.chunk.css.map": "/camera-roll/static/css/main.9c31278b.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.9522b9fe.chunk.css",
     "static/js/2.a448b866.chunk.js",
     "static/css/main.9c31278b.chunk.css",
-    "static/js/main.6bb3f2bf.chunk.js"
+    "static/js/main.060fa211.chunk.js"
   ]
 }

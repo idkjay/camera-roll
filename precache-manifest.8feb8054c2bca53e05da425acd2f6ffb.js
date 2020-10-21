@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91846c921095c729a475d2be11d7f90f",
+    "revision": "a1b350ce708263b49e8ff955338ff5e6",
     "url": "/camera-roll/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/camera-roll/static/css/2.9522b9fe.chunk.css"
   },
   {
-    "revision": "43195037e5fbc059ff74",
+    "revision": "2468b09e4bdfc0f1b361",
     "url": "/camera-roll/static/css/main.9c31278b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/camera-roll/static/js/2.a448b866.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "43195037e5fbc059ff74",
-    "url": "/camera-roll/static/js/main.6bb3f2bf.chunk.js"
+    "revision": "2468b09e4bdfc0f1b361",
+    "url": "/camera-roll/static/js/main.060fa211.chunk.js"
   },
   {
     "revision": "be0a6dd002fddf324528",
