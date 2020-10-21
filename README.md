@@ -3,7 +3,7 @@
 #### A mobile friendly app that allows users to search up photos using the Unsplash API. 
 Created for the Mintbean Hackathon - https://www.mintbean.io/mb-event/db790794-7bc6-4e58-b3f3-8fa689220079
 
-Live Site: https://jordanchu.com/camera-roll/
+Live Site: https://idkjay.github.io/camera-roll/
 
 ![screenshot1](https://i.imgur.com/65yZ7XZ.png)
 ![screenshot1](https://i.imgur.com/RD3cKKZ.jpg)
