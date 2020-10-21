@@ -19,7 +19,7 @@ const Footer = () => {
           <div className="row">
             <p className="col-sm">
               &copy;
-              <a className="name" href="http://jordanchu.xyz/">Jordan Chu</a> | {new Date().getFullYear()}{" "}
+              <a className="name" href="https://jordanchu.com/">Jordan Chu</a> | {new Date().getFullYear()}{" "}
             </p>
           </div>
         </div>
